@@ -17,7 +17,7 @@ body {
 }
 
 .navbar-mynav {
-    background-color: #fff;
+    background-color: #f9f9f9;
 }
 
 .nav-logo {
@@ -182,6 +182,11 @@ fieldset[disabled] .btn-page-banner.active {
     }
 }
 
+#banner {
+    background-color: #f9f9f9;
+    padding-bottom: 20px;
+}
+
 
 /*banner end*/
 
@@ -191,6 +196,7 @@ fieldset[disabled] .btn-page-banner.active {
 #kepu {
     margin-top: 40px;
     text-align: center;
+    /*background-color: #f0f0f0;*/
 }
 
 #kepu .line {
@@ -211,8 +217,6 @@ fieldset[disabled] .btn-page-banner.active {
     color: red;
 }
 
-#kepu .cangying {}
-
 
 /*kepu end*/
 
@@ -223,6 +227,7 @@ fieldset[disabled] .btn-page-banner.active {
     margin-top: 50px;
     text-align: center;
     height: 50px;
+    /*background: #f9f9f9;*/
 }
 
 #footer .footer-line {

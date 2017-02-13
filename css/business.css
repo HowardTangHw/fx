@@ -1,0 +1,62 @@
+/*content*/
+
+#content-text {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+#content {
+    text-align: center;
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    padding-bottom: 20px;
+}
+
+.content {
+    margin-top: 10px;
+}
+
+#content .line {
+    padding-top: 10px;
+    border-bottom: 1px solid #c0c0c0;
+    margin-bottom: 20px;
+}
+
+.content p {
+    text-align: left;
+    font-size: 16px;
+}
+
+.process {
+    margin-top: 20px;
+    /*background-color: #fff;*/
+    /*background-color: #fff;*/
+}
+
+.process strong:first-child {
+    font-size: 30px
+}
+
+.step {
+    border: 1px solid #000;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+.step p {
+    font-size: 16px;
+}
+
+.promise strong:first-child {
+    font-size: 30px
+}
+
+.promise h4 {
+    text-align: left;
+    margin-left: 30px;
+}
+
+
+/*content*/

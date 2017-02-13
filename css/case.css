@@ -1,0 +1,67 @@
+/*case*/
+
+#case {
+    position: relative;
+}
+
+#case .case-inner {
+    padding: 4em 1em 0 1em;
+    position: relative;
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+
+.case-inner .case-up {
+    height: 0.4em;
+    width: 6em;
+    -moz-border-radius: 0 0.4em 0.4em 0;
+    border-radius: 0 0.4em 0.4em 0;
+    background-color: #ee655b;
+    position: relative;
+}
+
+.case-inner .case-right {
+    width: 0.4em;
+    height: 6em;
+    float: right;
+    -moz-border-radius: 0.4em 0.4em 0 0;
+    border-radius: 0.4em 0.4em 0 0;
+    background-color: #ee655b;
+    position: relative;
+    top: -4em;
+}
+
+.case-inner .case-down {
+    height: 0.4em;
+    width: 6em;
+    -moz-border-radius: 0.4em 0 0 0.4em;
+    border-radius: 0.4em 0 0 0.4em;
+    background-color: #ee655b;
+    position: relative;
+    top: 1.6em;
+    right: -0.4em;
+    float: right;
+}
+
+.case-inner .case-left {
+    width: 0.4em;
+    height: 6em;
+    -moz-border-radius: 0 0 0.4em 0.4em;
+    border-radius: 0 0 0.4em 0.4em;
+    background-color: #ee655b;
+    position: relative;
+    top: -0.4em;
+}
+
+.case-inner .case-content {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+/*case*/
