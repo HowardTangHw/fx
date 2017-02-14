@@ -1,0 +1,30 @@
+/*knowledge*/
+
+#knowledge {
+    text-align: center;
+}
+
+#knowledge .knowledge-inner {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+    border: 5px solid #000;
+}
+
+#knowledge .knowledge-inner .konwledge-line {
+    border: 1px dashed #ccc;
+}
+
+#knowledge .knowledge-inner .knowledge-inner-page {
+    /*height: 150px;*/
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#knowledge .knowledge-inner .knowledge-inner-page:hover {
+    background: #f8f8f8;
+}
+
+
+/*knowledge*/

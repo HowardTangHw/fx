@@ -1,0 +1,29 @@
+/*content*/
+
+#detail {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.content {
+    border: 5px solid #000;
+}
+
+.content p {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.content span {
+    color: #ccc;
+}
+
+.content-line {
+    border: 1px dashed #ccc;
+}
+
+
+/*content*/
