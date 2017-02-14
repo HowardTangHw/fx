@@ -108,6 +108,7 @@ fieldset[disabled] .btn-page-banner.active {
     color: #ffffff;
     position: relative;
     overflow: hidden;
+    background: -webkit-linear-gradient(left, rgba(29, 139, 144, 1) 47.02%, rgba(22, 104, 108, 1) 100%);
     background: linear-gradient(90deg, rgba(29, 139, 144, 1) 47.02%, rgba(22, 104, 108, 1) 100%);
 }
 
@@ -196,7 +197,8 @@ fieldset[disabled] .btn-page-banner.active {
 #kepu {
     margin-top: 40px;
     text-align: center;
-    /*background-color: #f0f0f0;*/
+    /*background-color: #f0f0f0;
+        */
 }
 
 #kepu .line {
@@ -241,8 +243,8 @@ fieldset[disabled] .btn-page-banner.active {
     #page p {
         font-size: 16px;
     }
-    #page .page-line{
-        display:none;
+    #page .page-line {
+        display: none;
     }
 }
 
