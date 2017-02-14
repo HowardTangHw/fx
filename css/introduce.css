@@ -45,10 +45,6 @@
     position: relative;
 }
 
-.content .container {
-    /*position: absolute;*/
-}
-
 .content .content-border {
     text-align: center;
     border: 5px solid #000;
