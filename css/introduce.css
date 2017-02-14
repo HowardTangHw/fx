@@ -50,10 +50,19 @@
     border: 5px solid #000;
 }
 
-@media (max-width:768px) {
+.content .content-about img:first-child {
+    width: 176px;
+    height: 88px;
+}
+
+@media(max-width:768px) {
     .content .content-about img {
         width: 350px;
         height: 300px;
+    }
+    .content .content-about img:first-child {
+        width: 176px;
+        height: 88px;
     }
 }
 
