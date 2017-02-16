@@ -146,6 +146,16 @@ fieldset[disabled] .btn-page-banner.active {
     top: 0;
 }
 
+@media (max-width:768px) {
+    #page p {
+        font-size: 16px;
+        color: #fff;
+    }
+    #page h2 {
+        font-size: 40px;
+    }
+}
+
 
 /*page end*/
 
@@ -239,9 +249,6 @@ fieldset[disabled] .btn-page-banner.active {
     #footer img {
         width: 60px;
         height: 30px;
-    }
-    #page p {
-        font-size: 16px;
     }
     #page .page-line {
         display: none;
